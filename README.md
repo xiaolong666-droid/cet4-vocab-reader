@@ -14,9 +14,9 @@
 
 ## 使用方法
 
-1. 下载 `英语四级核心词_点击朗读.html`
-2. 用浏览器打开（推荐 Chrome / Edge）
-3. 点击任意单词卡片即可朗读
+**在线访问：** https://xiaolong666-droid.github.io/cet4-vocab-reader/
+
+**本地使用：** 下载 `index.html`，用浏览器打开（推荐 Chrome / Edge），点击任意单词卡片即可朗读。
 
 > 朗读功能依赖浏览器的 Web Speech API。首次使用时，浏览器可能需要加载语音引擎，稍等片刻即可。
 
@@ -29,8 +29,8 @@
 ## 项目结构
 
 ```
-CET4-Vocabulary-Reader/
-├── 英语四级核心词_点击朗读.html   # 主文件（自包含，含全部单词数据）
+cet4-vocab-reader/
+├── index.html      # 主文件（自包含，含全部单词数据）
 └── README.md
 ```
 
